@@ -1,0 +1,18 @@
+{
+  "positive": {
+    "high": "Practice gratitude journaling",
+    "low": "Reflect on what went well today"
+  },
+  "negative": {
+    "high": {
+      "controllable": "Create an action plan to improve the situation",
+      "uncontrollable": "Practice acceptance and deep breathing"
+    },
+    "medium_low": {
+      "work": "Break your tasks into smaller steps and prioritize",
+      "relationship": "Communicate openly and express your thoughts",
+      "health": "Take rest and focus on self-care",
+      "general": "Reflect calmly and reset your mindset"
+    }
+  }
+}
